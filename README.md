@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avocadowhisperer I am self learner.
-- 👀 I’m interested in python programming 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in front end programming 
+- 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
